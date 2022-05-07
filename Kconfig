@@ -1,0 +1,5 @@
+menu "My OOT Zephyr module"
+
+rsource "drivers/Kconfig"
+
+endmenu
